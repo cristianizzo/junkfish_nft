@@ -1,0 +1,159 @@
+background:
+  category: Background
+  values:
+    radioactive_bgr:
+      name: Radioactive
+      prob: 0.28
+      src: img/backgrounds/background_radioactive.png
+    space_bgr:
+      name: Space
+      prob: 0.28
+      src: img/backgrounds/background_space.png
+    sunrise_bgr:
+      name: Sunrise
+      prob: 0.26
+      src: img/backgrounds/background_sunrise.png
+    water_bgr:
+      name: Water
+      prob: 0.14
+      src: img/backgrounds/background_water.png
+    zombie_bgr:
+      name: Zombie
+      prob: 0.02
+      src: img/backgrounds/background_zombie.png
+    robot_bgr:
+      name: Robot
+      prob: 0.02
+      src: img/backgrounds/background_robot.png
+
+head:
+  category: Head
+  values:
+    fishbone_head:
+      name: Fishbone
+      prob: 0.334
+      src: img/head/head_fishbone.png
+    orca_head:
+      name: Orca
+      prob: 0.333
+      src: img/head/head_orca.png
+    radioactive_head:
+      name: Radioactive
+      prob: 0.333
+      src: img/head/head_radioactive.png
+
+eyes:
+  category: Eyes
+  values:
+    normal_eyes:
+      prob: 0.45
+      src: img/eyes/eye_normal.png
+    orca_eyes:
+      name: Orca
+      prob: 0.23
+      src: img/eyes/eye_orca.png
+    piranha_eyes:
+      name: Piranha
+      prob: 0.22
+      src: img/eyes/eye_piranha.png
+    radioactive_eyes:
+      name: Radioactive
+      prob: 0.01
+      src: img/eyes/eye_radioactive.png
+
+clothes:
+  category: Clothes
+  values:
+    elegant_clothes:
+      name: Elegant
+      prob: 0.2
+      src: img/clothes/body_elegant.png
+    elegantgreen_clothes:
+      name: Elegantgreen
+      prob: 0.2
+      src: img/clothes/body_elegantgreen.png
+    elegantred_clothes:
+      name: Elegantred
+      prob: 0.2
+      src: img/clothes/body_elegantred.png
+    fishbone_clothes:
+      name: Fishbone
+      prob: 0.14
+      src: img/clothes/body_fishbone.png
+    muscle_clothes:
+      name: Muscle
+      prob: 0.12
+      src: img/clothes/body_muscle.png
+    muscleblue_clothes:
+      name: Muscleblue
+      prob: 0.04
+      src: img/clothes/body_muscleblue.png
+    musclegreen_clothes:
+      name: Musclegreen
+      prob: 0.1
+      src: img/clothes/body_musclegreen.png
+
+attr:
+  category: Attributes
+  values:
+    pinnapunte_attr:
+      name: Pinnapunte
+      prob: 0.1
+      src: img/attr/attributes_pinnapunte.png
+    pinnarana_attr:
+      name: Pinnarana
+      prob: 0.1
+      src: img/attr/attributes_pinnarana.png
+    pinnasqualo_attr:
+      name: Pinnasqualo
+      prob: 0.1
+      src: img/attr/attributes_pinnasqualo.png
+    pinnaviola_attr:
+      name: Pinnaviola
+      prob: 0.1
+      src: img/attr/attributes_pinnaviola.png
+    plasticring_attr:
+      name: Plasticring
+      prob: 0.1
+      src: img/attr/attributes_plasticring.png
+    polpo_attr:
+      name: Polpo
+      prob: 0.1
+      src: img/attr/attributes_polpo.png
+    tridente_attr:
+      name: Tridente
+      prob: 0.2
+      src: img/attr/attributes_tridente.png
+    ufo_attr:
+      name: Ufo
+      prob: 0.1
+      src: img/attr/attributes_ufo.png
+    ufo2_attr:
+      name: Ufo2
+      prob: 0.1
+      src: img/attr/attributes_ufo2.png
+
+mouth:
+  category: Mouth
+  values:
+    normal_mouth:
+      prob: 0.39
+      src: img/mouths/mouth_becco.png
+    kiss_mouth:
+      name: Kiss
+      prob: 0.39
+      src: img/mouths/mouth_kiss.png
+    piranha_mouth:
+      name: Piranha
+      prob: 0.14
+      src: img/mouths/mouth_piranha.png
+    robot_mouth:
+      name: Robot
+      prob: 0.08
+      src: img/mouths/mouth_robot.png
+    robot_shark:
+      name: Shark
+      prob: 0.08
+      src: img/mouths/mouth_shark.png
+
+
